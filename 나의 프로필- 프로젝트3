@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>지수의 프로필</title>
+        <link href="profile.css" rel="stylesheet"
+    </head>
+    <body>
+        <h1 title="지수의 프로필 페이지"> 지&nbsp;수&nbsp;의&nbsp;프&nbsp;로&nbsp;필&nbsp;</h1>
+        <img src="meee.png"
+        alt= "나의 캐릭터 사진"
+        Width="400"
+        >
+        <div id="jisoo-introduce">
+            <p>안녕하세요. 한지수 라고 합니다.</p>
+          <br>  <img src="서울.jpeg"
+                 alt="도시 이름"
+                 width="300">
+                    <br><p>서울에서 태어나 지금 서초구에서 살고 있습니다.</p>
+            <img src="떡볶이.jpeg"
+            alt="맛있는 음식"
+            width="300">
+            <br><p>맛있는 음식을 먹는 것을 좋아하고 사물을 관찰하는 것을 좋아해요</p>
+            
+            </div>
+            <hr>
+            <div id="hobby">
+                <br><h2> 지수의 <mark>"Favorite list"</mark></h2>
+        
+                <p> <img src="book.jpeg"
+                         alt="책"
+                         width="300">
+
+
+                    <br>1.<strong>책 읽는 것</strong>을 좋아해요.</p>
+
+
+
+                   <p><img src="만화.jpeg"
+                         alt="재밌는 만화"
+                         width="300">
+
+
+                     <br>2.<em>만화 </em>보는 것을 좋아해요.</p>
+
+
+
+                    <p></p><img src="음악.jpeg"
+                         alt="팝송"
+                         width="300">
+
+                         
+                    <br>3.<q>팝송</q>을 듣는 것을 좋아해요.</p>
+
+                
+            </div>
+            <hr>
+         </body>   
+        </div>

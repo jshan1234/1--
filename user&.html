@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>자바스크립트 소개</title>
+</head>
+
+<body>
+
+    <h1 id="name"></h1>
+    <p id="drink"></p>
+    <p id="accessory"></p>
+
+    <script>
+        const nameElement = document.querySelector("#name")
+        let name = prompt("당신의 이름은?")
+        nameElement.textContent = name
+
+        const drinkElement = document.querySelector("#drink")
+        let drink = prompt("당신이 좋아하는 음료수는?")
+        drinkElement.textContent = `음료수는 ${drink}입니다!`
+
+
+        document.querySelector("#accessory")
+            .textContent = `좋아하는 액세사리는${prompt("좋아하는 액세사리는?")}입니다!`
+    </script>
+</body>
+
+</html>
